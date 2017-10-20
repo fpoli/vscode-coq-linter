@@ -2,8 +2,17 @@
     "name": "coq-linter",
     "displayName": "coq-linter",
     "description": "Basic linter for Coq",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "publisher": "fpoli",
+    "license": "See LICENSE",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/fpoli/vscode-coq-linter.git"
+    },
+    "homepage": "https://github.com/fpoli/vscode-coq-linter",
+    "bugs": {
+        "url": "https://github.com/fpoli/vscode-coq-linter/issues"
+    },
     "engines": {
         "vscode": "^1.17.0"
     },
